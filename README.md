@@ -1,4 +1,3 @@
-Claro, aquí tienes una lista de los pasos y comandos necesarios para instalar y configurar todo desde cero en el servidor Node.js para tu proyecto de Akinator.
 
 ### 1. Crear la Carpeta del Servidor Node.js
 
